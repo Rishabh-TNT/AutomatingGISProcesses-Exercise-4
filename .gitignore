@@ -3,6 +3,7 @@
 
 docs/build/
 docs/_build/
+data/
 
 *~
 *.swp
